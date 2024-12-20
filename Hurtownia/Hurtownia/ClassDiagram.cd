@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ap::Logowanie">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAACAAAAAAAAAAAAAAAAAAAQADAAAAAAAAAAAA=</HashCode>
+      <FileName>logowanie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ap::Magazyn">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAABAAAAAAJAIAAAAAAABAIAAAAAAAAAAAAAAw=</HashCode>
+      <FileName>magazyn.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ap::Towar">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAoEAoAQCAAAAAAAAABAAAAAAgAAAACAIYAQ=</HashCode>
+      <FileName>Towar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ap::Urzadzenia">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAQAAAAABAAAABAAAAAAAAAAAGBAQAQ=</HashCode>
+      <FileName>Towar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ap::Meble">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAQAAAAAAAAAADAAAAAAAAAAACBAQAQ=</HashCode>
+      <FileName>Towar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ap::Akcesoria">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQgAAAAQAAAAAAAAAgBAAAAAAAAAAACAAQAQ=</HashCode>
+      <FileName>Towar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ap::dane_do_rachunku">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgIACAAAAAAAAAAAAAAAAAAAAAAAAIgQ=</HashCode>
+      <FileName>Towar.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

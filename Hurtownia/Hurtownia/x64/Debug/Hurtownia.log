@@ -1,0 +1,19 @@
+﻿  main.cpp
+  logowanie.cpp
+  metody_Magazyn.cpp
+C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\Hurtownia\metody_Magazyn.cpp(40,135): warning C4244: "argument": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\Hurtownia\metody_Magazyn.cpp(45,130): warning C4244: "argument": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\Hurtownia\metody_Magazyn.cpp(50,134): warning C4244: "argument": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\Hurtownia\metody_Magazyn.cpp(147,137): warning C4244: "argument": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\Hurtownia\metody_Magazyn.cpp(152,132): warning C4244: "argument": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\Hurtownia\metody_Magazyn.cpp(157,136): warning C4244: "argument": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\Hurtownia\metody_Magazyn.cpp(175,16): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0142" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\Hurtownia\metody_Magazyn.cpp(175,16): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0119" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\Hurtownia\metody_Magazyn.cpp(175,16): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0107" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\Hurtownia\metody_Magazyn.cpp(219,18): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0107" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\Hurtownia\metody_Magazyn.cpp(256,16): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0142" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\Hurtownia\metody_Magazyn.cpp(256,16): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0119" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\Hurtownia\metody_Magazyn.cpp(256,16): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0107" nie może być przedstawiony w bieżącej stronie kodowej (1251)
+  metody_Towar.cpp
+  Generowanie kodu...
+  Hurtownia.vcxproj -> C:\Users\Lenovo\Desktop\polsl\PK2\Hurtownia\Hurtownia\x64\Debug\Hurtownia.exe

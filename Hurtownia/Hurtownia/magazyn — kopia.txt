@@ -1,0 +1,22 @@
+rodzaj		id	Nazwa		Producent	Model		Wymiary(cm)	Kolor	 	Waga(kg)	Moc(W)	kl_energ	material	kruchoscIlosc	Cena(zl)
+urzadzenie	01	laptop		Lenovo		IdeaPad		20x40x05	Srebny		0.05		850	A		Aluminium	srednia	2	4200
+urzadzenie	02	telew.	        Samsun		Wall		80x160x5	Czarny		3		500	A		Aluminium	duza	3	8600
+urzadzenie	03	lampa		Xaiomi		Liht		20x20x30	Bialy		0.025		60	B		Aluminium	srednia	5	160
+urzadzenie	04	konsola		Sony		PS5		40x60x30	Czarny		0.06		600	A		Aluminium	mala	6	3600
+urzadzenie	05	kino		Philips		Home_4		40x50x08	Srebny		0.006		700	A		Aluminium	mala	7	1600
+urzadzenie	06	telefon		Apple		Iphone		20x10x05	Red		0.05		850	A		Aluminium	duza	9	4200
+urzadzenie	07	komp		X-Com		4M3R8		40x80x80	Pink		3		1150	A		Aluminium	srednia	8	10600
+meble		08	lozko		BRW 		Heaven		100x120x60	Brazowy		10		brak	brak		Skora		mala	4	3260
+meble		09	sofa		Ikea		Cossy		80x120x60	Kremowy		8		brak	brak		Sky		mala	10	2000
+meble		10	komoda		Ikea		Idea		120x60x60	Czarny		5		brak	brak		Drewno		brak	5	1600
+meble		11	szafa		Aata		Zuza		250x60x60	Bialy		3		brak	brak		Drewno		brak	6	1000
+meble		12	stol		Obi		Tech		100x60x40	Czarny		12		brak	brak		Metal		brak	7	2500
+meble		13	fotel		BRW		Massae+		60x60x40	Brazowy		3		brak	brak		Skora		brak	2	600
+meble		14	fotel		X-Com		4M3R		60x60x70	Szary		2.5		brak	brak		Welna		mala	3	1200
+akcesoria	15	zearek		Ikea		Pearl		10x10x06	Blue		0.01		brak	brak		Plastik		srednia	4	10
+akcesoria	16	poduszka	Pepco 		brak		40x60x10	Red		0.005		brak	brak		Jedwab		mala	5	80
+akcesoria	17	podklad		Jysk		Idea		20x40x01	Czarny		0.001		brak	brak		Poliester	brak	6	50
+akcesoria	18	pilka		Ikea		brak		10x06x06	Blue		0.005		brak	brak		Ceramika	duza	5	30
+akcesoria	19	waza		Pepco 		brak		10x10x30	Red		0.025		brak	brak		Szklo		duza	4	60
+akcesoria	20	lustro		Casto		stojace		60x05x30	Zolty		1.2		brak	brak		Srebro		duza	6	400
+akcesoria	21	kosz		Xaiomi		Trash		40x40x40	Szary		0.008		brak	brak		Plastik		mala	7	100
